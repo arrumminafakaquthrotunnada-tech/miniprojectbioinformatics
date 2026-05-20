@@ -13,8 +13,9 @@ This project focuses on bioinformatics analysis for agricultural and livestock a
 - Bioinformatics workflow automation
 
 ## Project Structure
-- data/raw : raw sequencing data
+- data : sequencing data
 - data/ligands : ligand structure files
+- data/proteins : protein structure files
 - scripts : analysis scripts
 - workflow : workflow and pipeline files
 - results : analysis outputs
