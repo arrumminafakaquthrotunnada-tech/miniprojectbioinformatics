@@ -29,3 +29,7 @@ Analisis In Silico Interaksi Fitohormon terhadap Enzim Sucrose Phosphate Synthas
 
 ## Our Result
 https://bit.ly/MiniProjectBioinformatics 
+
+<p align="center">
+  <img src="results/GA1_GyraseA-Ligand1.png" width="700">
+</p>
