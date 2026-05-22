@@ -9,6 +9,14 @@ This project focuses on bioinformatics analysis for agricultural and livestock a
 ## Project Title
 Analisis In Silico Interaksi Fitohormon terhadap Enzim Sucrose Phosphate Synthase (SPS) dan L-Galactono-1,4-Lactone Dehydrogenase (GalLDH) sebagai Strategi Peningkatan Kualitas Citrus nobilis dalam Menghadapi Huanglongbing (HLB)
 
+## Team Members
+
+1. Adika Pramudya Nugraha (23/516889/BI/11252)
+2. Angga Firza Pratama (23/517433/BI/11258)
+3. Arrum Minafaka Quthrotun Nada (23/515372/BI/11225)
+4. Aulia Annisa Azzahra (23/520592/BI/11325)
+5. Lintang Permatasari (23/515270/BI/11222)
+
 ## Project Structure
 - data : sequencing data
 - data/ligands : ligand structure files
