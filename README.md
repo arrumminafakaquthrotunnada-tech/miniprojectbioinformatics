@@ -6,11 +6,8 @@ Bioinformatics analysis in agriculture and livestock.
 ## Description
 This project focuses on bioinformatics analysis for agricultural and livestock applications, including NGS data processing, sequence analysis, and genomic data interpretation.
 
-## Project Scope
-- NGS data processing
-- Sequence analysis
-- Genomic data interpretation
-- Bioinformatics workflow automation
+## Project Title
+Analisis In Silico Interaksi Fitohormon terhadap Enzim Sucrose Phosphate Synthase (SPS) dan L-Galactono-1,4-Lactone Dehydrogenase (GalLDH) sebagai Strategi Peningkatan Kualitas Citrus nobilis dalam Menghadapi Huanglongbing (HLB)
 
 ## Project Structure
 - data : sequencing data
@@ -30,8 +27,5 @@ This project focuses on bioinformatics analysis for agricultural and livestock a
 4. Result interpretation
 5. Visualization and reporting
 
-## External Resource
+## Our Result
 https://bit.ly/MiniProjectBioinformatics 
-
-## Status
-Project preparation phase
